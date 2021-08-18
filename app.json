@@ -8,7 +8,7 @@
 		"splash": {
 			"image": "./assets/splash.png",
 			"resizeMode": "contain",
-			"backgroundColor": "#101317"
+			"backgroundColor": "#EFFFFB"
 		},
 		"updates": {
 			"fallbackToCacheTimeout": 0
@@ -21,7 +21,7 @@
 		"android": {
 			"adaptiveIcon": {
 				"foregroundImage": "./assets/adaptive-icon.png",
-				"backgroundColor": "#101317"
+				"backgroundColor": "#EFFFFB"
 			},
 			"package": "com.imtiajrex.covidfo"
 		},
